@@ -1,0 +1,3 @@
+Optimizing-User-Group-and-Role-Management-with-Access-Control-and-Workflows
+
+Modern organizations rely on multiple systems and teams that require secure, well-defined access levels. However, manually managing users, groups, and roles often results in duplicated permissions, delays in approvals, and potential security risks. This project focuses on optimizing access control and workflow automation to ensure a streamlined, secure, and auditable management process. It integrates smart workflows, predefined role templates, and dependency checks (e.g., preventing user deletion when assigned to incidents).
